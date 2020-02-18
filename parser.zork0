@@ -1,0 +1,17 @@
+"List of files for Zork-0 parser"
+
+<COMPILATION-FLAG P-DEBUGGING-PARSER <>>
+<COMPILATION-FLAG P-ZORK0 T>
+<COMPILATION-FLAG P-GENDERS <>>
+
+<INSERT-FILE "~interlogic/zillib/CONSTANTS">
+<INSERT-FILE "~interlogic/zillib/parser/PSTACK">
+<INSERT-FILE "~interlogic/zillib/parser/PMEM">
+<INSERT-FILE "~interlogic/zillib/parser/PDEFS">
+<INSERT-FILE "DEFS2.ZIL" X T>
+<INSERT-FILE "~interlogic/zillib/parser/PARSER">
+<INSERT-FILE "~interlogic/zillib/parser/FIND">
+<INSERT-FILE "~interlogic/zillib/parser/REDS">
+<INSERT-FILE "~interlogic/zillib/parser/GRAM">
+<INSERT-FILE "~interlogic/zillib/parser/TOP">
+;<INSERT-FILE "~interlogic/zillib/parser/PRARE">
