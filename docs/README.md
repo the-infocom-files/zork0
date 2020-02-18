@@ -14,8 +14,8 @@ The following sources provide further information on Zork Zero.
 
 ## Resources
 
-* [Zork I on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#zork0)
-* [Zork I on Historical Source (GitHub)](https://github.com/historicalsource/zorkzero)
+* [Zork Zero on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#zork0)
+* [Zork Zero on Historical Source (GitHub)](https://github.com/historicalsource/zorkzero)
 * [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
 ## Version History
