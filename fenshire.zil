@@ -913,7 +913,7 @@ he vanishes, and you notice a delicate paper fan lying at your feet." CR>
 "to indicate how many pebbles you want to remove from Pile #" N .PILE ".">
 			<2CR-TO-PRINTER>
 			<REPEAT ()
-				<SET X <INPUT X>>
+				<SET X <INPUT 1>>
 				<MOUSE-INPUT?>
 				<COND (<EQUAL? .X ,CLICK1 ,CLICK2>
 				       <SET X <SN-CLICK T>>)
@@ -992,7 +992,7 @@ he vanishes, and you notice a delicate paper fan lying at your feet." CR>
 "to select the pile from which you'd like to remove a pebble or pebbles.">
 			<2CR-TO-PRINTER>
 			<REPEAT ()
-				<SET X <INPUT X>>
+				<SET X <INPUT 1>>
 				<MOUSE-INPUT?>
 				<COND (<EQUAL? .X ,CLICK1 ,CLICK2>
 				       <SET X <SN-CLICK>>)
