@@ -243,7 +243,7 @@ Breadbasket of Quendor. The capital of the province is Gurth City.\""
 is a popular vacation spot.\""
 <> ( FIELDS FROTZEN)
 "\"The Fields of Frotzen, fertile farmland in the heart of Gurth province,
-produces an annual bounty of grain and are freqently referred to as the
+produces an annual bounty of grain and are frequently referred to as the
 Breadbasket of Quendor.\""
 <> FESTERON
 "\"A small village in Antharia.\""
