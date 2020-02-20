@@ -529,7 +529,7 @@ assumed the throne in 881 GUE.\"" CR>)
 		<TELL ".\"" CR>)>>
 
 <OBJECT WIZARD-OF-FROBOZZ
-	(DESC "Wiazard of Frobozz")
+	(DESC "Wizard of Frobozz")
 	(SYNONYM WIZARD FROBOZZ)
 	(OWNER WIZARD-OF-FROBOZZ)
 	(ACTION WIZARD-OF-FROBOZZ-F)>
