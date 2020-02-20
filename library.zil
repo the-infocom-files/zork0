@@ -122,7 +122,7 @@ the source of the Frigid River. The article goes into construction techniques,
 the dam's appeal as a tourist attraction, and the financial impact of the
 dam's cost on the economy of the GUE."
  DIABLO MASSACRE
-"\"The Diablo Massacre occured at the Zorbel Pass in 666 GUE when the invading
+"\"The Diablo Massacre occurred at the Zorbel Pass in 666 GUE when the invading
 armies of King Duncanthrax met a native militia of trollish warriors. The
 invaders were outnumbered but well-armed; the natives were equipped only with
 wooden clubs and a large piece of very strong garlic. Military historians
