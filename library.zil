@@ -33,7 +33,7 @@ was formed at the behest of King Duncanthrax in 668 GUE. Headquartered in the
 'You name it, we do it!'\""
 ( GREAT UNDERGROUND) ( HIGHWAY TOLL)
 "\"The Great Underground Highway is a system of toll roads stretching
-thoughout both the eastland and westland provinces.\""
+throughout both the eastland and westland provinces.\""
 <> SQUID
 "\"A bottom-dwelling aquatic creature.\""
 <> HELLHOUND
