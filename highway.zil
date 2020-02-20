@@ -882,7 +882,7 @@ outta here!\" Guards surround you and escort you out." CR>
 			      <GOTO ,FISHING-VILLAGE>)
 			     (<DOABLE-REQUEST>
 			      <JIGS-UP
-"\"Done!\" You learn that hanging is as excrutiatingly painful as promised.">)
+"\"Done!\" You learn that hanging is as excruciatingly painful as promised.">)
 			     (<OR <UNDOABLE-REQUEST>
 				  <PROB 50>>
 			      <JIGS-UP
@@ -890,7 +890,7 @@ outta here!\" Guards surround you and escort you out." CR>
 indeed quite quick and painless.">)
 			     (T
 			      <JIGS-UP
-"\"Done!\" You learn that hanging is as excrutiatingly painful as promised.">)>)
+"\"Done!\" You learn that hanging is as excruciatingly painful as promised.">)>)
 		      (T
 		       <TELL "\"Shut up until your number is called!\"" CR>
 		       <STOP>)>)>>
