@@ -83,7 +83,7 @@ located in Thriff and Accardi.\""
 of such notable works as THE LIVES OF THE TWELVE FLATHEADS and MUMBERTHRAX:
 THE MAN BEHIND THE LEGEND.\""
 <> MINX
-"\"An irrestibly cuddly animal.\""
+"\"An irresistably cuddly animal.\""
 <> WINDCAT
 "\"The fleetest land animal.\""
  ENDLESS FIRE
