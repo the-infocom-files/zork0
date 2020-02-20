@@ -57,7 +57,7 @@ of fashion nowadays.\"" CR>
 		      (<FSET? ,GOGGLES ,WORNBIT>
 		       <TELL
 ,YOU-SEE " right through the jester's clothes as though they were
-transparent! Embarassed, you turn away. (But not before noticing that
+transparent! Embarrassed, you turn away. (But not before noticing that
 the jester has pink butterflies stitched onto his underwear.)" CR>)
 		      (T
 		       <TELL
