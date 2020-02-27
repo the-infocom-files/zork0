@@ -1937,7 +1937,7 @@ you plunge into the moat and are devoured by ravenous alligators.">)>
       (DESC "Bastion")
       (LDESC
 "This room occupies a taller tower rising from the corner of the keep.
-The slitted windows are wider here, presumably to accomodate the weaponry
+The slitted windows are wider here, presumably to accommodate the weaponry
 of the period. The stair winds up and down from here.")
       (UP TO PARAPET)
       (DOWN TO SOLAR)

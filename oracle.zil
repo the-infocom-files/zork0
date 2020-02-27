@@ -163,7 +163,7 @@ its huge mouth hangs open in an expression of insatiable hunger; its four ">
 	 <COND (<VERB? EXAMINE>
 		<TELL "The semi-spherical depression is a few inches across.">
 		<COND (<IN? ,RUBY ,DEPRESSION>
-		       <TELL " A huge ruby rests in the depresssion.">)>
+		       <TELL " A huge ruby rests in the depression.">)>
 		<CRLF>)
 	       (<AND <VERB? TAKE>
 		     <PRSO? ,RUBY>

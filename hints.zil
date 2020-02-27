@@ -165,7 +165,7 @@ eye...end of eternity...\""
 		 "ANSWER \"THE LETTER Y\"">
 	<PLTABLE "magic glove"
 		 "Putting the glove on gives you additional
-sensory keeness and dexterity.">
+sensory keenness and dexterity.">
 	<PLTABLE "magic cloak"
 		 "Wear it."
 		 "You've been teleported to a strange new region. See the

@@ -318,7 +318,7 @@ and northeast.">)>>
 	 <COND (<EQUAL? .RARG ,M-LOOK>
 		<COND (<RUNNING? I-PROLOGUE>
 		       <TELL
-"You are assaulted by waves of greasy odors and buffetted by mobs of
+"You are assaulted by waves of greasy odors and buffeted by mobs of
 bustling cooks and servants">)
 		      (T
 		       <TELL
