@@ -5,7 +5,7 @@
 
 <BEGIN-SEGMENT 0>
 
-<INCLUDE "PDEFS">
+<INCLUDE "pdefs">
 
 ;"subtitle game commands"
 

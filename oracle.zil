@@ -5,7 +5,7 @@
 
 <BEGIN-SEGMENT SECRET>
 
-<INCLUDE "BASEDEFS" "PDEFS"> ;"needed for G-VIAL-F, for some reason"
+<INCLUDE "basedefs" "pdefs"> ;"needed for G-VIAL-F, for some reason"
 
 <ROOM ORACLE
       (LOC ROOMS)

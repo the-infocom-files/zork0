@@ -3,7 +3,7 @@
 			       ZORK ZERO
 	(c) Copyright 1988 Infocom, Inc.  All Rights Reserved."
 
-<INCLUDE "PDEFS">
+<INCLUDE "pdefs">
 
 <BEGIN-SEGMENT CASTLE>
 
